@@ -1,1 +1,1 @@
-# Loan-default-prediction
+Predict bank customer's loan default
